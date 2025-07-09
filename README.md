@@ -36,5 +36,10 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 It simulates hotel booking and performance data including room types, ratings, booking trends, and revenue.
 
 ---
+## 📷 Dashboard Preview
 
-*Note: Dashboard screenshots will be uploaded shortly. This repository will be updated accordingly.*
+### 🛏️ Occupancy Rate Dashboard  
+![Occupancy Dashboard](https://github.com/LegendaryAnalyst/ATLIS-Hotel-Analysis/blob/main/occupancy-dashboard.png?raw=true)
+
+### 💰 Revenue Breakdown Dashboard  
+![Revenue Dashboard](https://github.com/LegendaryAnalyst/ATLIS-Hotel-Analysis/blob/main/revenue-dashboard.png?raw=true)
