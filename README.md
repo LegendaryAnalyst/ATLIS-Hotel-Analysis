@@ -36,6 +36,7 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 It simulates hotel booking and performance data including room types, ratings, booking trends, and revenue.
 
 ---
+
 ## 📷 Dashboard Preview
 
 ### 🛏️ Occupancy Rate Dashboard  
