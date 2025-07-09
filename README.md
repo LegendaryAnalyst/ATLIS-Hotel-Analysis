@@ -44,3 +44,4 @@ It simulates hotel booking and performance data including room types, ratings, b
 
 ### 💰 Revenue Breakdown Dashboard  
 ![Revenue Dashboard](https://github.com/LegendaryAnalyst/ATLIS-Hotel-Analysis/blob/main/revenue-dashboard.png?raw=true)
+
