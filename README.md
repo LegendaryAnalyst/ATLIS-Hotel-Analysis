@@ -38,6 +38,13 @@
 
 ---
 
+## 🔗 Live Dashboard
+
+You can view the interactive version of this dashboard hosted on **NovyPro** here:  
+👉 [ATLIS Hotel Power BI Dashboard on NovyPro](YOUR_LINK_HERE)
+
+---
+
 ## 📁 Dataset
 The dataset used for this project is publicly available on [Kaggle](https://www.kaggle.com/).  
 It simulates hotel booking and performance data including room types, ratings, booking trends, and revenue.
