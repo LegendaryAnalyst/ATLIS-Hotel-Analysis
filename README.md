@@ -1,15 +1,17 @@
 ![image](https://github.com/user-attachments/assets/42a4753d-3c1e-46d2-a1be-25ebe2e96837)# ATLIS Hotel Performance Analysis
 
-This project analyzes over 50,000 rows of hotel performance data using Power BI and Excel.  
-It was completed as part of a data analytics certification program, using publicly available data from Kaggle.  
-The goal was to uncover key insights into hotel revenue, occupancy rates, customer preferences, and performance trends.
-
 ---
+
 ## Project Summary
 
-> A comprehensive hotel performance analysis using over 50,000 records of booking and financial data.  
+> A comprehensive hotel performance analysis using over 50,000 records of booking and financial data.
+> This project leverages Power BI and Excel to identify occupancy trends, room demand, and revenue insights  
+> to guide hotel management in improving efficiency and profit.
 > This Power BI dashboard delivers insights into occupancy trends, revenue performance, and room preferences
 > to support data-driven decisions for hospitality management.
+> The goal was to uncover key insights into hotel revenue, occupancy rates, customer preferences, and performance trends.
+
+---
 
 ## 📌 Objectives
 - Analyze occupancy rate by room type and day of the week  
@@ -51,8 +53,10 @@ It simulates hotel booking and performance data including room types, ratings, b
 ![Revenue Dashboard](https://github.com/LegendaryAnalyst/ATLIS-Hotel-Analysis/blob/main/revenue-dashboard.png?raw=true)
 
 ---
+
 ## 🔄 Next Steps
-- Add time-series forecasting using Power BI
-- Incorporate SQL queries for deeper analysis
-- Expand dashboard with customer segmentation view
+- Add forecast analysis (e.g., occupancy prediction using time series)
+- Integrate SQL querying to support dynamic filtering
+- Expand dashboard to include guest segmentation and behavior patterns
+
 
